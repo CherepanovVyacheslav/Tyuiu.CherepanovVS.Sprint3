@@ -8,7 +8,7 @@ namespace Tyuiu.CherepanovVS.Sprint3.Task3.V2.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidGetCharCount()
         {
             DataService ds = new DataService();
 
